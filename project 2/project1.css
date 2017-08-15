@@ -1,0 +1,41 @@
+.TITLE {
+background-color: pink;
+	padding-top: 50px;
+	border: 30px solid white;
+	text-align: center;
+	font-style: italic;
+}
+.LESSON1 {
+	padding-top: 15px;
+	font-size: 25px;
+	border: 20px solid black;
+}
+.LESSON2
+{
+	padding-top: 25px;
+	font-size: 25px;
+	border: 20px solid red;
+}
+.LESSON3
+{
+	padding-top: 25px;
+	font-size: 25px;
+	border: 20px solid green;
+}
+.concept-description
+{
+	background-color: white;
+border-style: solid;
+border-width: 5px;
+border-color: gray;
+font-size: 20px;
+padding-top: 20px;
+border: 15px solid black;
+	}
+	.concept-title
+	{
+		border-style: solid;
+		font-size: 25px;
+		font-style: italic;
+		padding-top: 20px
+	}
